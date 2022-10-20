@@ -1,6 +1,6 @@
 # Prerequisites
 
-* Check out our  [https://github.com/stealth-scriptsdk/java-docs/wiki](documentation)
+* Check out our  (https://github.com/stealth-scriptsdk/java-docs/wiki)[documentation]
 
 # Installation
 
