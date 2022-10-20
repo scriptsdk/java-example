@@ -1,3 +1,7 @@
+# Prerequisites
+
+* Check out our  [https://github.com/stealth-scriptsdk/java-docs/wiki](documentation)
+
 # Installation
 
 1. Download this repository through github
